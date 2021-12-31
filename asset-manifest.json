@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-course-proyect/static/css/main.1ba9e6ce.css",
+    "main.js": "/React-course-proyect/static/js/main.872d4207.js",
+    "static/media/check-icon.svg": "/React-course-proyect/static/media/check-icon.78f06bb79bc1ae1517f4739f9d1b970a.svg",
+    "static/media/cancel-icon.svg": "/React-course-proyect/static/media/cancel-icon.dc7920ccc1acd05630d4c9cc72978cc2.svg",
+    "index.html": "/React-course-proyect/index.html",
+    "main.1ba9e6ce.css.map": "/React-course-proyect/static/css/main.1ba9e6ce.css.map",
+    "main.872d4207.js.map": "/React-course-proyect/static/js/main.872d4207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba9e6ce.css",
+    "static/js/main.872d4207.js"
+  ]
+}
